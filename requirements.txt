@@ -4,4 +4,7 @@ openai
 sqlalchemy
 twilio
 pyjwt
+stripe
+httpx
+
  
